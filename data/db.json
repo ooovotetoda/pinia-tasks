@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "play gloomhaven",
+      "isFav": true
+    },
+    {
+      "id": 2,
+      "title": "mow the lawn",
+      "isFav": false
+    },
+    {
+      "id": 550,
+      "title": "watch tutorial",
+      "isFav": false
+    },
+    {
+      "id": 95,
+      "title": "asdfasdfasdf",
+      "isFav": false
+    },
+    {
+      "id": 4280,
+      "title": "asdfasdfsadf",
+      "isFav": false
+    }
+  ]
+}
